@@ -29,3 +29,10 @@ node challenge_2_speed_detector.js
 node  challenge_3_net_salary_calculator.js
 ```
 
+#Technology Used
+ Node
+ Javascript
+ Git
+
+ #Author & License
+ Diko Mohamed
